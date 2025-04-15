@@ -1,2 +1,2 @@
-# Boosting
-Assignment : Boosting
+# Boosting Techniques
+Assignment : Boosting Techniques
